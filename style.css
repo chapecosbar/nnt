@@ -3,12 +3,12 @@
 
 :root 
 {
-  --primary: #ed9121;
+  --primary: #1624a0;
 }
 
 body 
 {
- background:  #111;
+ background:  #2b8f3c;
   height: 100vh;
   display: flex;
   align-items: center;
