@@ -8,7 +8,7 @@ export default  [
   {
     title:"2 - Cinzas",
     artist: "Nem Nome Tem",
-    cover: "2.jpg",
+    cover: "02.jpg",
     file: "cinzas.mp3",
   },  
   {
