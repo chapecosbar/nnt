@@ -26,7 +26,7 @@ export default  [
   {
     title:"5 - Mea Culpa",
     artist: "Nem Nome Tem",
-    cover: "1.jpeg",
+    cover: "05.jpg",
     file: "mea.mp3",
   }
  ];
