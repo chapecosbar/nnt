@@ -20,7 +20,7 @@ export default  [
   {
     title:"4 - Devastação e Reforma",
     artist: "Nem Nome Tem",
-    cover: "1.jpeg",
+    cover: "04.jpg",
     file: "devasta.mp3",
   },  
   {
